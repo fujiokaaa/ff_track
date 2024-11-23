@@ -1,0 +1,8 @@
+{
+  "Author": "veyn",
+  "Name": "valttrack",
+  "Punchline": "Track alts of players.",
+  "Description": "Track characters that belong to the same account, track history of renames and transfers.",
+  "InternalName": "valttrack",
+  "ApplicableVersion": "any"
+}
